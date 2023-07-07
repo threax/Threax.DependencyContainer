@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threax.DependencyContainer", "Threax.DependencyContainer\Threax.DependencyContainer.csproj", "{57F15C2E-12E5-4209-9BCA-25E0C4D264BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threax.DependencyContainer.Tests", "Threax.DependencyContainer.Tests\Threax.DependencyContainer.Tests.csproj", "{39E986E9-D5A1-4C3A-8BDC-C06D6CBEA021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57F15C2E-12E5-4209-9BCA-25E0C4D264BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F15C2E-12E5-4209-9BCA-25E0C4D264BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F15C2E-12E5-4209-9BCA-25E0C4D264BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F15C2E-12E5-4209-9BCA-25E0C4D264BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39E986E9-D5A1-4C3A-8BDC-C06D6CBEA021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E986E9-D5A1-4C3A-8BDC-C06D6CBEA021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E986E9-D5A1-4C3A-8BDC-C06D6CBEA021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E986E9-D5A1-4C3A-8BDC-C06D6CBEA021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4373BC94-9AE4-489D-BE62-A3A5CC1AA43D}
+	EndGlobalSection
+EndGlobal
